@@ -1,0 +1,51 @@
+Impossible to calculate!-Невозможно рассчитать!
+Error!-Ошибка!
+Not enough data!-Недостаточно данных!
+Open in file-Показать в файле
+Show theory-Показать теорию
+Show in webbrowser-Показать на сайте
+Exit-Выйти
+New model-Новая модель
+Saved model-Сохранённая модель
+Theory-Теория
+Language-Язык
+There is no such model!-Нет такой модели!
+Module name-Название модели
+Save-Сохранить
+Back-Назад
+Name:-Название:
+Open-Открыть
+Start height (m):-Начальная высота (м):
+Start speed (m/s):-Начальная скорость (м/с):
+Time of flight (s):-Время полёта (с):
+Max height (m):-Максимальная высота (м):
+The speed is directed:-Скорость направлена:
+up-вверх
+down-вниз
+Make model-Создать модель
+Clear-Очистить
+Start angle (rad):-Начальный угол (рад):
+Distance (m):-Дальность (м):
+Impossible to make correct model!-Невозможно построить правильную модель!
+Min height (m):-Минимальная высота (м):
+Max speed (m/s):-Максимальная скорость (м/с):
+Min speed (m/s):-Минимальная скорость (м/с):
+Width of model (m):-Длина модели (м):
+Height of model (m):-Высота модели (м):
+Mass of planet (kg):-Масса планиты (кг):
+Radius of planet (m):-Радиус планеты (м):
+Mass of body (kg):-Масса тела (кг):
+Environment:-Среда:
+Vacuum-Вакуум
+Air-Воздух
+Vertical throw-Вертикальный бросок
+Horizontal throw-Горизонтальный бросок
+Throw at an angle-Бросок под углом
+Throw with extra settings-Бросок с дополнительными харатеристиками
+Time of max height (s):-Время для достижения максимальной высоты (с):
+Max speed (in the end of flight) (m/s):-Максимальная скорость (в конце полёта) (м/с):
+Angle in the end of flight (rad):-Угол в конце полёта (рад):
+Min speed (at max height) (m/s):-Минимальная скорость (на максимальной высоте) (м/с):
+Motion (m):-Перемещение (м):
+New model from file-Новая модель из файла
+Body throw model-Моделирование броска тела

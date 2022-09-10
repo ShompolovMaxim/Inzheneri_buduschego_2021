@@ -1,0 +1,32 @@
+Movement of a body thrown at an angle to the horizon
+Consider the motion of a body in the Earth's gravity field, but we will not take into account the air resistance. Let the initial velocity of the thrown body be directed at an angle to the horizon α. The body is thrown from a height of y=h0; x0=0.
+Then, at the initial moment of time, the body has horizontal (vx) and vertical (vy) components of velocity. The projection of the velocity on the axis of coordinates at t=0 is equal to:
+{v0_x=v0cosα, v0_y=v0sinα. (1).
+The acceleration of a body is equal to the acceleration of gravity and is always directed down:
+a=g(2).
+Hence, the projection of the acceleration on the X-axis is equal to zero, and on the Y axis is equal to ay=g.
+Since the acceleration component is zero on the X-axis, the velocity of the body in this direction is a constant value and is equal to the projection of the initial velocity on the X-axis (see(1)). The movement of the body along the X-axis is uniform.
+In the situation shown in Figure 1, the Y-axis body will move first up and then down. In this case, the acceleration of the body in both cases is equal to the acceleration of g. The body spends the same amount of time going up from an arbitrary height y=h0 to the maximum lifting height (h) as it does going down from h to y=h0. Therefore, the points that are symmetrical with respect to the top of the body lift lie at the same height. It turns out that the trajectory of the body is symmetrical with respect to the point-the top of the rise - and this is a parabola.
+The velocity of a body thrown at an angle to the horizon can be expressed by the formula:
+v(t)=v0+gt (3), where v0 is the velocity of the body at the time of the throw. Formula (3) can be considered as the result of the addition of the velocities of two independent movements in straight lines, in which the body participates.
+The expressions for the velocity projection on the axis take the form:
+{vx=v0cosa, vy=v0sina-gt (4).
+The equation for moving a body when moving in the field of gravity:
+s(t)=s0+v0t+gt^2/2 (5), where s0 is the displacement of the body at the initial moment of time.
+Projecting equation (5) on the X and Y coordinate axes, we get:
+{x=v0cos(α)⋅t, y=h0+v0sin(α)⋅t-gt^2/2 (6).
+The body moving up has an equidistant movement along the Y-axis at first, after the body reaches the top, the movement along the Y-axis becomes equidistant.
+The trajectory of motion of a material point is obtained, given by the equation:
+y=h+x*tg α-g*x^2/(2*v_0^2*cosa^2) (7).
+The form of equation (7) shows that the trajectory of motion is a parabola.
+Time of ascent and flight of a body thrown at an angle to the horizon
+The time taken by the body to reach the maximum lifting height is obtained from the system of equations (4). . At the vertex of the trajectory, the body has only a horizontal component, vy=0. The time of ascent (tp) is equal to:
+t_p=v0*sina/g (8).
+The total time of movement of the body (flight time (tpol))we find from the second equation of the system (6), knowing that when a body falls to the Ground, y=0.
+The range and elevation of a body thrown at an angle to the horizon
+To find the horizontal range of the body (s) under given us the terms in the equation of the x coordinate of the system of equations (6) be either the time of flight (tpol) (9). When h=0, the range is equal to:
+s=v_0^2*sin(α)^2/(2g) (10).
+From the expression (9) it follows that for a given rate of cast range maximum when α=π/4.
+The maximum lifting height of the body (hmax) is found from the second equation of the system (6), substituting in it the lifting time (tp) (8):
+h_max=h+v_0^2*sin(b)^2/(2g) (11).
+Expression (11) shows that the maximum lifting height of the body is directly proportional to the square of the throwing speed and increases as the throwing angle increases.
